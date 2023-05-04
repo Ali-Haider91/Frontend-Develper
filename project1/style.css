@@ -2,7 +2,7 @@
 :root{
 
     --success-color: green;
-    --error-color: orangered;
+    --error-color: rgb(252, 104, 50);
 }
 
 
