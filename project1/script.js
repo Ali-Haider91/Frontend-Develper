@@ -19,7 +19,7 @@ function showError(input, message) {
 
 
 }
-// function to update class for success
+//    function to update class for success
 
 function showSuccess(input) {
     // Get the parent element 
@@ -32,7 +32,7 @@ function showSuccess(input) {
 // EventListeners
 // Create event listener for submit  
 form.addEventListener("submit", function(e){
-    // stop apge reloading on submit
+    // stop page reloading on submit
     e.preventDefault();
 
     // if username is empty
